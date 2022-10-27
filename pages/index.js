@@ -1,4 +1,4 @@
-import Menu from '../components/menu'
+import Menu from '../components/Header'
 import styles from '../styles/Home.module.css'
 
 export default function Home() {

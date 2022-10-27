@@ -1,3 +1,4 @@
+
 const Menu = () => (
     <div>
         <header class="p-3 text-bg-dark">
@@ -8,11 +9,11 @@ const Menu = () => (
         </a>
 
         <ul class="nav col-12 col-lg-auto me-lg-auto mb-2 justify-content-center mb-md-0">
-          <li><a href="#" class="nav-link px-2 text-secondary">Home</a></li>
-          <li><a href="#" class="nav-link px-2 text-white">Features</a></li>
-          <li><a href="#" class="nav-link px-2 text-white">Pricing</a></li>
-          <li><a href="#" class="nav-link px-2 text-white">FAQs</a></li>
-          <li><a href="#" class="nav-link px-2 text-white">About</a></li>
+          <li><a href="#" class=" links-menu nav-link px-2 text-secondary">Home</a></li>
+          <li><a href="#" class=" links-menu nav-link px-2 text-white">Aulas</a></li>
+          <li><a href="#" class=" links-menu nav-link px-2 text-white">Dê aula</a></li>
+          <li><a href="#" class=" links-menu nav-link px-2 text-white">Chat</a></li>
+          <li><a href="#" class=" links-menu nav-link px-2 text-white">Sobre</a></li>
         </ul>
 
         <form class="col-12 col-lg-auto mb-3 mb-lg-0 me-lg-3" role="search">

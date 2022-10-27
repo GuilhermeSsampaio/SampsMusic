@@ -1,0 +1,9 @@
+.links-menu{
+    transition: all 0.5s;
+    cursor: pointer;
+}
+
+.links-menu:hover{
+    -webkit-transform: scale(1.5);
+    transform: scale(1.5);
+}
