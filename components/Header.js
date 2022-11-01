@@ -2,6 +2,7 @@
 const Menu = () => (
     <div>
         <header class="p-3 text-bg-dark">
+          <p>SampaioMusic</p>
     <div class="container">
       <div class="d-flex flex-wrap align-items-center justify-content-center justify-content-lg-start">
         <a href="/" class="d-flex align-items-center mb-2 mb-lg-0 text-white text-decoration-none">
@@ -22,7 +23,7 @@ const Menu = () => (
 
         <div class="text-end">
           <button type="button" class="btn btn-outline-light me-2">Login</button>
-          <button type="button" class="btn btn-warning">Sign-up</button>
+          <button type="button" class="btn btn-warning">Cadastrar</button>
         </div>
       </div>
     </div>
