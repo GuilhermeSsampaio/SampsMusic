@@ -11,9 +11,9 @@ const Menu = () => (
 
         <ul class="nav col-12 col-lg-auto me-lg-auto mb-2 justify-content-center mb-md-0">
           <li><a href="#" class=" links-menu nav-link px-2 text-secondary">Home</a></li>
-          <li><a href="#" class=" links-menu nav-link px-2 text-white">Aulas</a></li>
-          <li><a href="#" class=" links-menu nav-link px-2 text-white">Dê aula</a></li>
-          <li><a href="#" class=" links-menu nav-link px-2 text-white">Chat</a></li>
+          <li><a href="../pages/cursos" class=" links-menu nav-link px-2 text-white">Cursos</a></li>
+          <li><a href="./pages/cursos.js" class=" links-menu nav-link px-2 text-white">Dê aula</a></li>
+          <li><a href="/contato" class=" links-menu nav-link px-2 text-white">Contato</a></li>
           <li><a href="#" class=" links-menu nav-link px-2 text-white">Sobre</a></li>
         </ul>
 
